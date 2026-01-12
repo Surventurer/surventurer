@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhinav Rajpati</h1>
-<h3 align="center">A passionate to learn Computer.</h3>
+<h3 align="center">A passionate to learn Computer and Technology.</h3>
 
-- 🔭 I’m currently working on [Stegnogrphy_Website](https://github.com/Surventurer/Steganography_Website)
+- 🔭 I’m currently working on [Code_Manager](https://github.com/Surventurer/Code_Manager)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Surventurer](https://github.com/Surventurer?tab=repositories)
 
